@@ -401,7 +401,7 @@ ShipTrajectoryAI/
 ### Windows PowerShell
 
 ~~~powershell
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/Kifirchik999/ShipTrajectoryAI.git
 Set-Location "ShipTrajectoryAI"
 
 python -m venv .venv
